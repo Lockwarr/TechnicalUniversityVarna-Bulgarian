@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lockwar\source\repos\project6\project6\source.cpp(34): warning C4101: 'sum': unreferenced local variable
+c:\users\lockwar\source\repos\project6\project6\source.cpp(34): warning C4101: 'p': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Lockwar\source\repos\Project6\Debug\Project6.exe

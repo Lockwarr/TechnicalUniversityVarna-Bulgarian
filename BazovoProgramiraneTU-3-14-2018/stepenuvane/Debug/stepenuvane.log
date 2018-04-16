@@ -1,0 +1,5 @@
+﻿  stepenuvane.cpp
+c:\users\lockwar\source\repos\bazovoprogramiranetu-3-14-2018\stepenuvane\stepenuvane.cpp(19): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\users\lockwar\source\repos\bazovoprogramiranetu-3-14-2018\stepenuvane\stepenuvane.cpp(25): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\users\lockwar\source\repos\bazovoprogramiranetu-3-14-2018\stepenuvane\stepenuvane.cpp(42): warning C4551: function call missing argument list
+  stepenuvane.vcxproj -> C:\Users\Lockwar\source\repos\BazovoProgramiraneTU-3-14-2018\Debug\stepenuvane.exe

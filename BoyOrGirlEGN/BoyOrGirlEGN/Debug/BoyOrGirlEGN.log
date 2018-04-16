@@ -1,0 +1,6 @@
+﻿  StartUp.cpp
+c:\users\lockwar\source\repos\boyorgirlegn\boyorgirlegn\startup.cpp(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\lockwar\source\repos\boyorgirlegn\boyorgirlegn\startup.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\lockwar\source\repos\boyorgirlegn\boyorgirlegn\startup.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\lockwar\source\repos\boyorgirlegn\boyorgirlegn\startup.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  BoyOrGirlEGN.vcxproj -> C:\Users\Lockwar\source\repos\BoyOrGirlEGN\Debug\BoyOrGirlEGN.exe

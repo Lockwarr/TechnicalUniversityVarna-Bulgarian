@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  3-17-2018Vchas.cpp
+c:\users\lockwar\source\repos\3-17-2018vchas\3-17-2018vchas\3-17-2018vchas.cpp(10): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length': non-standard syntax; use '&' to create a pointer to member
+c:\users\lockwar\source\repos\3-17-2018vchas\3-17-2018vchas\3-17-2018vchas.cpp(10): error C2446: '<=': no conversion from 'unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) noexcept const' to 'int'
+  c:\users\lockwar\source\repos\3-17-2018vchas\3-17-2018vchas\3-17-2018vchas.cpp(10): note: There is no context in which this conversion is possible
+c:\users\lockwar\source\repos\3-17-2018vchas\3-17-2018vchas\3-17-2018vchas.cpp(22): error C2065: 'cin': undeclared identifier

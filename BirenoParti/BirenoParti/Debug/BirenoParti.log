@@ -1,0 +1,6 @@
+﻿  Pirate.cpp
+  BEER.cpp
+c:\users\lockwar\source\repos\tuvarna\birenoparti\birenoparti\beer.cpp(10): warning C4101: 'result': unreferenced local variable
+  Generating Code...
+Pirate.obj : error LNK2005: _main already defined in BEER.obj
+C:\Users\Lockwar\source\repos\TUVarna\BirenoParti\Debug\BirenoParti.exe : fatal error LNK1169: one or more multiply defined symbols found

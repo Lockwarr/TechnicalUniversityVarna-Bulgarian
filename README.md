@@ -1,1 +1,0 @@
-# TechnicalUniversityVarna-Bulgarian

@@ -16,6 +16,20 @@ public:
 
 protected:
 
+	class CAddress
+	{
+	private:
+		std::string town;
+		std::string street;
+
+	public:
+		CAddress(std::string Town, std::string Street)
+		{
+			town = Town;
+			street = Street;
+		};
+
+	};
 
 	std::string m_name;
 	std::string m_EGN;
